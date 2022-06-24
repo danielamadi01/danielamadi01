@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://twitter.com/LarryCutts6" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png" alt="larry-cutts" height="30" width="40" /></a>
 <!--  ![twitter](https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png) -->
-<a href="https://www.linkedin.com/in/larry-cutts-742406169/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175698162-248acd34-57ad-431c-b0bd-7dc6ee7bbab7.png" alt="larry-cutts" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/larry-cutts-742406169/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175698162-248acd34-57ad-431c-b0bd-7dc6ee7bbab7.png" alt="larry-cutts" height="50" width="50" /></a>
 </p>
 
 
