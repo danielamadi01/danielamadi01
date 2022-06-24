@@ -10,7 +10,7 @@ ljcutts/ljcutts is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where You Can Find Me:</h3>
 <p align="left">
 <a href="https://twitter.com/LarryCutts6" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png" alt="larry-cutts" height="30" width="40" /></a>
 <!--  ![twitter](https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png) -->
