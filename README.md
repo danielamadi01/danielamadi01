@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Where You Can Find Me:</h3>
 <p align="left">
-<a href="https://twitter.com/LarryCutts6" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png" alt="larry-cutts" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/larry-cutts-742406169/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175698162-248acd34-57ad-431c-b0bd-7dc6ee7bbab7.png" alt="larry-cutts" height="50" width="50" /></a>
- <a href="https://www.youtube.com/channel/UCifzIH_LbTJVjHbP97Qy8-A" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175820382-3fc03924-fadf-487f-b3e1-00472dbaaff2.png" alt="larry-cutts" height="50" width="50" /></a>
+<a href="https://twitter.com/LarryCutts6" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175697635-e7798a13-0183-45f4-a03f-fe070051f650.png" alt="larry-cutts" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/larry-cutts-742406169/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175698162-248acd34-57ad-431c-b0bd-7dc6ee7bbab7.png" alt="larry-cutts" height="50" width="50" /></a>
+ <a href="https://www.youtube.com/channel/UCifzIH_LbTJVjHbP97Qy8-A" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85313109/175820382-3fc03924-fadf-487f-b3e1-00472dbaaff2.png" alt="larry-cutts" height="50" width="50" /></a>
 </p>
 
 
