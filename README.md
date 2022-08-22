@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Crypto And Blockchain Technology
-- 🌱 I’m currently applying jobs to become employed in the web3 space
+- 🌱 I’m currently applying to jobs to become employed in the web3 space
 - 📫 How to reach me ljcutts3@gmail.com
 
 <!---
